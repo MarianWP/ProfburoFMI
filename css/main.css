@@ -62,6 +62,10 @@ a{
     text-decoration: none;
     color:#171718
 }
+a visited{
+    
+    color:inherit;
+}
 .main {
     margin-top: 100px;
     margin: 0 auto;
