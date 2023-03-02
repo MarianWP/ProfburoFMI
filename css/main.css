@@ -58,6 +58,11 @@ html, body{
     opacity: 70%;
     text-align: center;
 }
+.card-descr{
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+}
 a{
     text-decoration: none;
     color:#171718;
