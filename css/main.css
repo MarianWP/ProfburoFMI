@@ -61,8 +61,7 @@ html, body{
 a{
     text-decoration: none;
     color:#171718;
-    display: inline-block;
-    text-align: center;
+    display: block;
 }
 a visited{
     
