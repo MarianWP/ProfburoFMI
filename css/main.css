@@ -30,7 +30,13 @@ html, body{
     
    
 }
-
+.card-descr{
+    display:flex;
+    flex-direction:column;
+}
+a visited{
+    color:inherit;
+}
 .container{
     margin: 0 auto;
     padding: 0 15px;
