@@ -5,30 +5,15 @@
 
 :root{
     --black: #171718;
-    --black-border: #26292D;
-    --white: #fff;
+
     --yellow: #FED368;
     
-    --dark-bg: var(--black);
-    --dark-border: var(--black-border);
 
     --text-color: var(--black);
-    --header-text: var(--white);
+
     --accent: var(--yellow);
-    /* Light mode */
-    --page-bg: var(--white);
-    --text-color: var(--black);
-    --project-card-bg:var(--white);
-    --project-card-text: var(--black);
+
     
-}
-
-
-.dark{
-    --page-bg: #252525;
-    --text-color: var(--white);
-    --project-card-bg:var(--black);
-    --project-card-text: var(--white);
 }
 
 
@@ -96,7 +81,7 @@ html, body{
 .card-img {
     height: 300px;
     width: 250px;
-    background-image: url(/img/vadim.png);
+    background: url(../img/vadim.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -110,7 +95,7 @@ html, body{
 .card-img__1{
     height: 300px;
     width: 250px;
-    background-image: url(/img/ivan.png);
+    background-image: url(../img/ivan.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -124,7 +109,7 @@ html, body{
 .card-img__2{
     height: 300px;
     width: 250px;
-    background-image: url(/img/nastia.png);
+    background-image: url(../img/nastia.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -138,7 +123,7 @@ html, body{
 .card-img__4{
     height: 300px;
     width: 250px;
-    background-image: url(/img/katya.png);
+    background-image: url(../img/katya.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -152,7 +137,7 @@ html, body{
 .card-img__5{
     height: 300px;
     width: 250px;
-    background-image: url(/img/marik.png);
+    background-image: url(../img/marik.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -166,7 +151,7 @@ html, body{
 .card-img__6{
     height: 300px;
     width: 250px;
-    background-image: url(/img/maks.png);
+    background-image: url(../img/maks.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -180,7 +165,7 @@ html, body{
 .card-img__7{
     height: 300px;
     width: 250px;
-    background-image: url(/img/iva.png);
+    background-image: url(../img/iva.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -194,7 +179,7 @@ html, body{
 .card-img__8{
     height: 300px;
     width: 250px;
-    background-image: url(/img/andriy.png);
+    background-image: url(../img/andriy.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
