@@ -58,18 +58,7 @@ html, body{
     opacity: 70%;
     text-align: center;
 }
-.card-descr{
-    display:flex;
-    flex-direction: column;
-}
-a{
-    text-decoration: none;
-    color:#171718;
-}
-a visited{
-    
-    color:inherit;
-}
+
 .main {
     margin-top: 100px;
     margin: 0 auto;
@@ -92,7 +81,7 @@ a visited{
 .card-img {
     height: 300px;
     width: 250px;
-    background: url(../img/vadim.png);
+    background: url(../img/vadim.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -103,10 +92,14 @@ a visited{
     
 
 }
+a{
+    text-decoration: none;
+    color:#171718
+}
 .card-img__1{
     height: 300px;
     width: 250px;
-    background-image: url(../img/ivan.png);
+    background-image: url(../img/ivan.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -120,7 +113,7 @@ a visited{
 .card-img__2{
     height: 300px;
     width: 250px;
-    background-image: url(../img/nastia.png);
+    background-image: url(../img/nastia.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -134,7 +127,7 @@ a visited{
 .card-img__4{
     height: 300px;
     width: 250px;
-    background-image: url(../img/katya.png);
+    background-image: url(../img/katya.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -148,7 +141,7 @@ a visited{
 .card-img__5{
     height: 300px;
     width: 250px;
-    background-image: url(../img/marik.png);
+    background-image: url(../img/marik.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -162,7 +155,7 @@ a visited{
 .card-img__6{
     height: 300px;
     width: 250px;
-    background-image: url(../img/maks.png);
+    background-image: url(../img/maks.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -176,7 +169,7 @@ a visited{
 .card-img__7{
     height: 300px;
     width: 250px;
-    background-image: url(../img/iva.png);
+    background-image: url(../img/iva.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -190,7 +183,7 @@ a visited{
 .card-img__8{
     height: 300px;
     width: 250px;
-    background-image: url(../img/andriy.png);
+    background-image: url(../img/andriy.webp);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
