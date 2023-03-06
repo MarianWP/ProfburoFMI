@@ -79,9 +79,13 @@ html, body{
     align-items: center;
 }
 .card-img {
-  
+    /* height: 300px;
+    width: 250px; */
     max-width: 100%;
-    
+    /* background: url(../img/vadim.webp);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover; */
     background-color: #26292D;
     border-radius: 17px;
     margin-right: 25px;
@@ -185,7 +189,62 @@ a{
         background-size: cover;
         
     }
-    
+    .card-img__1{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+       
+    }
+    .card-img__2{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+       
+    }
+    .card-img__3{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+        
+    }
+    .card-img__4{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+        
+    }
+    .card-img__5{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+        
+    }
+    .card-img__6{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+        
+    }
+    .card-img__7{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+        
+    }
+    .card-img__8{
+       
+        margin: 0;
+        width: 100%;
+        background-size: cover;
+        
+    }
     .card-title{
         margin-top: 15px;
         font-size: 28px;
