@@ -30,13 +30,7 @@ html, body{
     
    
 }
-.card-descr{
-    display:flex;
-    flex-direction:column;
-}
-a visited{
-    color:inherit;
-}
+
 .container{
     margin: 0 auto;
     padding: 0 15px;
@@ -85,120 +79,27 @@ a visited{
     align-items: center;
 }
 .card-img {
-    height: 300px;
-    width: 250px;
-    background: url(../img/vadim.webp);
+    /* height: 300px;
+    width: 250px; */
+    max-width: 100%;
+    /* background: url(../img/vadim.webp);
     background-repeat: no-repeat;
     background-position: top;
-    background-size: cover;
+    background-size: cover; */
     background-color: #26292D;
-    border-radius: 12px;
+    border-radius: 17px;
     margin-right: 25px;
-    padding: 15px;
     
+     
 
 }
 a{
     text-decoration: none;
     color:#171718
 }
-.card-img__1{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/ivan.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
-}
-.card-img__2{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/nastia.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
-}
-.card-img__4{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/katya.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
-}
-.card-img__5{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/marik.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
-}
-.card-img__6{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/maks.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
-}
-.card-img__7{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/iva.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
-}
-.card-img__8{
-    height: 300px;
-    width: 250px;
-    background-image: url(../img/andriy.webp);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-    background-color: #26292D;
-    border-radius: 12px;
-    margin-right: 25px;
-    padding: 15px;
-    
-
+.card-descr{
+    display: flex;
+    flex-direction: column;
 }
 
 
